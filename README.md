@@ -1,2 +1,2 @@
-# Pure-CSS-Rabbit
+# Pure-CSS-Cat
 Pure CSS Rabbit using HTML and CSS
